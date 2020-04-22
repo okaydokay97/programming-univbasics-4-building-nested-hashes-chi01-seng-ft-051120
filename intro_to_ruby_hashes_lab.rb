@@ -1,5 +1,6 @@
 def base_hash
-
+  travel_methods = {:railroads => {}
+  }
 
 end
 
