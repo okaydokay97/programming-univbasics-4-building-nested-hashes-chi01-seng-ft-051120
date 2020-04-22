@@ -5,7 +5,7 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-  travel_methods = {:railroads => {}
+  travel_methods = {:railroads => {:pieces => 4, :rent_in_dollars => {}, :names=> {}}
   }
 
 end
